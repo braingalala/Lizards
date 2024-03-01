@@ -5,3 +5,7 @@ C:\Users\zhaku\Desktop\Lizards\Lizards\Lizards\obj\Debug\Lizards.csproj.Assembly
 C:\Users\zhaku\Desktop\Lizards\Lizards\Lizards\obj\Debug\Lizards.csproj.CoreCompileInputs.cache
 C:\Users\zhaku\Desktop\Lizards\Lizards\Lizards\obj\Debug\Lizards.exe
 C:\Users\zhaku\Desktop\Lizards\Lizards\Lizards\obj\Debug\Lizards.pdb
+C:\Users\student\Desktop\Lizards-main\Lizards\Lizards\obj\Debug\Lizards.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lizards-main\Lizards\Lizards\obj\Debug\Lizards.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lizards-main\Lizards\Lizards\obj\Debug\Lizards.exe
+C:\Users\student\Desktop\Lizards-main\Lizards\Lizards\obj\Debug\Lizards.pdb
